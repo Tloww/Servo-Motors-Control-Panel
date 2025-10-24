@@ -33,12 +33,3 @@ Different motor angles can be saved into a MySQL database, loaded later, or dire
 ## Main Files
 - index.php → Main web interface with sliders and action buttons.  
 - Angles.php → Outputs the latest angles submitted to the ESP.  
-
----
-
-## Code
-### index.php
-```php
-<?php
-// Full code for index.php here
-?>
