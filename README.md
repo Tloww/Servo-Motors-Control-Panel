@@ -2,7 +2,7 @@
 
 ## Project Idea
 This project provides a web-based control panel to manage Servo Motors using an interactive interface.  
-Different motor angles can be saved into a MySQL database, loaded later, or directly sent to the ESP microcontroller.
+Different motor angles can be saved into a  database, loaded later, or directly sent to the ESP microcontroller.
 
 ---
 
